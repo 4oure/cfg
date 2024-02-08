@@ -1,0 +1,16 @@
+recsettings 
+12v12sb 
+lowerchat 
+shortchat 
+upperbuilding 
+playermodelon 
+friendslistoff 
+teamindicatoroff 
+ubertimeroff 
+speedooff 
+hitmarkeron 
+hitmarkerred 
+hitmarker3 
+hitmarkerl1 
+hitmarkerlarge 
+hitmarkeroutlineon 

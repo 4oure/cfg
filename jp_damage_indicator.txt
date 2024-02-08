@@ -1,0 +1,1 @@
+#base ../custom/jofrehud-main/new/ui_overrides/damage_indicator/critheals.res 

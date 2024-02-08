@@ -1,0 +1,1 @@
+Resource/HudLayout.res { HudCrosshair { ypos cs-0.5+40 } } 

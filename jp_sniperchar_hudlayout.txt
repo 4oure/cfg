@@ -1,0 +1,1 @@
+Resource/HudLayout.res { HudScopeCharge { tall 0 } } 
