@@ -1,1 +1,1 @@
-x { Hitmarker { labeltext 0 } } 
+x { Hitmarker { labeltext 8 } } 
